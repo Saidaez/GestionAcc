@@ -55,7 +55,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-<footer class="bg-dark text-white" style="text-align: center;">
+<footer class="bg-dark text-white" style="text-align: center; margin-top: 10px; margin-bottom: 0px;">
     <div class="container py-4">
         <div class="row">
             <div class="col-md-6 offset-md-3 text-center">
